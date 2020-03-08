@@ -1,0 +1,10 @@
+#dolp:hover
+{
+    border: 1px solid blueviolet;
+    border-radius: 100%;
+}
+
+body
+{
+   padding-right: 100px;
+}
